@@ -1,0 +1,17 @@
+Properties
+Verweise
+watermarking.csproj
+
+bin
+obj
+
+*.pidb
+*.userprefs
+*.swp
+*.DS_Store
+*.nib
+*.suo
+*.user
+*.pfx
+
+*_ReSharper.*/
